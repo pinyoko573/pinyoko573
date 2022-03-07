@@ -1,7 +1,7 @@
 Hi, welcome to my github page!
 
 This page is still under maintenance, but feel free to look at my projects!
-Singapore Polytechnic - [https://github.com/pinyoko573/directie](Directie)
+Singapore Polytechnic - [Directie](https://github.com/pinyoko573/directie)
 
 <!--
 **pinyoko573/pinyoko573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
