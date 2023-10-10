@@ -5,7 +5,7 @@ My current interests in security are Digital Forensics and Malware Analysis.
 
 Feel free to look at my projects!
 
-* Singapore Polytechnic - [Directie](https://github.com/pinyoko573/directie)
+* Singapore Polytechnic (Final Year Project) - [Directie](https://github.com/pinyoko573/directie)
 * National University of Singapore (Orbital Project) - [WifiGuard](https://github.com/pinyoko573/SponsoredByPekoVPN)
 * National University of Singapore (Information Security Capstone Project) - [DRCKBanking (In progress)](#)
 <!--
