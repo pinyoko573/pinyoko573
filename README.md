@@ -1,12 +1,13 @@
-Hi, I'm a Year 2 Information Security student from National University of Singapore. I came from a Software Engineering background and aspire to work in the security field someday.
+Hi, I'm a Final Year Information Security student from National University of Singapore. I came from a Software Engineering background and aspire to work in the security field someday.
 
-My current interests in security are Security Engineering and Malware Analysis. 
+My current interests in security are Digital Forensics and Malware Analysis. 
 
 
 Feel free to look at my projects!
 
 * Singapore Polytechnic - [Directie](https://github.com/pinyoko573/directie)
-* National University of Singapore - [WifiGuard](https://github.com/pinyoko573/SponsoredByPekoVPN)
+* National University of Singapore (Orbital Project) - [WifiGuard](https://github.com/pinyoko573/SponsoredByPekoVPN)
+* National University of Singapore (Information Security Capstone Project) - [DRCKBanking (In progress)](#)
 <!--
 **pinyoko573/pinyoko573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
