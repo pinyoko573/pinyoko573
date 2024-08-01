@@ -1,8 +1,3 @@
-Hi, I'm a Final Year Information Security student from National University of Singapore. I came from a Software Engineering background and aspire to work in the security field.
-
-My current interests in security are Digital Forensics and Malware Analysis. 
-
-
 Feel free to look at my projects!
 
 * Singapore Polytechnic (Final Year Project) - [Directie](https://github.com/pinyoko573/directie)
