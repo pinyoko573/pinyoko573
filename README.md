@@ -6,7 +6,7 @@ Currently, I'm working on:
 - Improving my Japanese speaking 🤣
 - Building my own website
 
-I also play [HackTheBox](https://app.hackthebox.com/users/1688869) CTF Labs regularly and participate in the Seasonal challenges!
+I also play [HackTheBox](https://app.hackthebox.com/users/1688869) CTF Labs regularly and a little bit of Bug Bounty (looking at Government Vulnerability Disclosure programmes)!
 
 While you're here, feel free to look at my projects!
 - Singapore Polytechnic (Final Year Project) - [Directie](https://github.com/pinyoko573/directie)
