@@ -1,8 +1,7 @@
 Welcome to my Github profile! I'm a Information Technology Enthusiast who enjoys exploring on different technologies while looking from a security perspective 😎
 
 Currently, I'm working on:
-- AZ-800 Administering Windows Server Hybrid Core Infrastructure
-- AZ-500 Azure Security Engineer Associate (after AZ-800!)
+- Studying On-prem and Azure Active Directory
 - Improving my Japanese speaking 🤣
 - Building my own website
 
